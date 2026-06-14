@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/d2b00b23-43bd-468c-a073-60ad296156b8
+
+
+
+
+
 # Clinical-nutrition-Dashboard-powerbi-1st-project
 This dashboard shows the number of complaints in nutrition clinics at healthcare centers in Saudi during  2024 years 
 # Analysis of Nutrition Clinic Appointments and Complaints
